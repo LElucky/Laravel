@@ -1,0 +1,2 @@
+127.0.0.1 - - [04/Nov/2018:13:13:04 +0800] "GET / HTTP/1.1" 200 821 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36"
+127.0.0.1 - - [04/Nov/2018:13:13:05 +0800] "GET /favicon.ico HTTP/1.1" 200 0 "http://console.cc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36"
